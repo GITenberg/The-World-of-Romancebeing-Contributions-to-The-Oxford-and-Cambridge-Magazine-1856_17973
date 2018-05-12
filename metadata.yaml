@@ -1,0 +1,32 @@
+_repo: The-World-of-Romancebeing-Contributions-to-The-Oxford-and-Cambridge-Magazine-1856_17973
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2006-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Tales'
+- !lcsh 'Middle Ages -- Fiction'
+title: 'The World of Romance
+
+  being Contributions to The Oxford and Cambridge Magazine, 1856'
+url: http://www.gutenberg.org/ebooks/17973
